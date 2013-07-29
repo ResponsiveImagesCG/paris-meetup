@@ -1,4 +1,82 @@
-paris-meetup
-============
+# Responsive images meet up - Paris, 10th September, 2013
 
-Logisitcs information about Paris meetup on the 10th of Sept.
+## Meet up Location
+```
+16 Bis Boulevard Montmartre
+75009 Paris, 
+France
+```
+
+[Google Maps](https://www.google.com/maps?q=16+Bis+Boulevard+Montmartre+75009+Paris,++France&ie=UTF8&sll=48.873288000000024,2.3252779999999986&sspn=0.006055165327520617,0.01429221242565962&t=m&dg=opt&hnear=16+Boulevard+Montmartre,+75009+Paris,+%C3%8Ele-de-France,+France&z=16)
+
+# Getting to town 
+
+### Bus from Charles de Gaulle
+
+From Paris-Charles de Gaulle Airport (CDG) you can take the RoissyBus for 10
+Euros to get downtown, about a ten minute walk from the office. It departs from
+Terminals 1 and 2; buy your tickets just before the doors outside. The bus is
+non-stop from CDG to downtown and stops near Palais Garnier. From there you can
+walk to the office or many hotels nearby.
+
+### Metro from Gare du Nord
+
+If you come into Paris at the Gare du Nord you can take:
+
+* Metro <b>line #4</b> (pink line) in the <b>direction of Porte d'Orleans</b>,
+  change after two stops at <b>Strasbourg St Denis</b>.
+
+* then Metro <b>line #8</b> (purple line) in the <b>direction of Balard</b> to
+  <b>Grands Boulevards</b>.
+
+The Grands Boulevard Metro is on the same road as the Office. You can buy a
+Metro ticket from automated machines at all metro stops. You just need a regular
+Billet. The price is 1.70Eur and is valid in all directions for one Journey.
+This journey I gave you takes about 10 - 15 mins start to finish. You can pick
+up a map of Paris on the Eurostar itself.
+
+### Taxis G7 
+Book by phone: 
+ * +33 1 47 39 00 11 (to book in French) <br>
+ * +33 1 47 39 82 28 (for an English speaking Agent)<br>
+
+Book by internet:
+https://www.taxisg7.com/abonne/commande-taxis<br>
+
+### Wifi for guests
+
+The Paris offices have a wifi network dedicated for guests. The SSID is "Mozilla
+Guest" and we wil give you the password on arrival.
+
+
+## Accomodation
+
+### Hotels
+[Hotel Tryp Francois](http://www.solmelia.com/hotels/france/paris/tryp-francois/home.htm). 
+Across the street from the Mozilla office. If you ask for a quiet room, it is a
+good hotel. Rooms clean. Internet included (from LAN cable, no WiFi).
+
+[Holiday Inn - Paris Opera - Grands Blvds](http://www.holidayinn.com/hotels/us/en/paris/parpp/hoteldetail)
+
+[Hotel Mercure Opera Cusset](http://www.accorhotels.com/gb/hotel-1614-mercure-paris-opera-cusset/index.shtml).
+Internet is not included. About 5 mins walking to office via the main street.
+
+[Hotel Bergere Opera](http://www.astotel.com/uk/hotel-bergere-opera-paris.php) 
+nice hotel, small rooms but not bad.
+
+[Hotel Acadia Opera](http://www.astotel.com/uk/hotel-acadia-opera-paris.php)
+
+[Radisson Blu Ambassador](http://www.radissonblu.com/ambassadorhotel-paris)
+5 minutes walk. Very nice.
+
+[Hotel Corona Opera](http://www.paris-hotel-corona-opera.com/en/home/) 
+Nice enough hotel; really close to the office. Staff are nice and helpful
+and the rooms are nice, but the internet can be bad.
+
+### Hotels to avoid
+
+[Hôtel Mondial](http://www.tripadvisor.co.uk/Hotel_Review-g187147-d319561-Reviews-Mondial_Hotel-Paris_Ile_de_France.html)
+This hotel, while very conveniently placed with regards to the office, 
+should be avoided. It has generally poor reviews, and more importantly, at least 
+one Mozillian's room [was robbed](http://www.tripadvisor.co.uk/members-reviews/ryanw845) 
+while they were asleep! 
