@@ -1,10 +1,12 @@
 # Responsive images meet up - Paris, 10th September, 2013
 
-## Meet up Location
+## Meet up Location and time
+Date: 10th September, 2013
+Time: 10am-6pm
+
 ```
 16 Bis Boulevard Montmartre
-75009 Paris, 
-France
+75009 Paris, France
 ```
 
 [Google Maps](https://www.google.com/maps?q=16+Bis+Boulevard+Montmartre+75009+Paris,++France&ie=UTF8&sll=48.873288000000024,2.3252779999999986&sspn=0.006055165327520617,0.01429221242565962&t=m&dg=opt&hnear=16+Boulevard+Montmartre,+75009+Paris,+%C3%8Ele-de-France,+France&z=16)
