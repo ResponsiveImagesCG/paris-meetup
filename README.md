@@ -48,7 +48,8 @@ the user's bills?"
 We are still looking into how we can make this happen. 
 
 ## Organizers contact info
-[Yoav Weiss](mailto:yoav@yoav.ws)
+* [Yoav Weiss](mailto:yoav@yoav.ws)
+* [Marcos Caceres](mailto:marcos@marcosc.com)
 
 # Getting to town 
 
