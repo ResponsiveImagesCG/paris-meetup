@@ -1,4 +1,4 @@
-# Responsive images meet up - Paris, 10th September, 2013
+# Responsive images meet up
 
 ## Meet up Location and time
 Date: 10th September, 2013
@@ -10,6 +10,39 @@ Time: 10am-6pm
 ```
 
 [Google Maps](https://www.google.com/maps?q=16+Bis+Boulevard+Montmartre+75009+Paris,++France&ie=UTF8&sll=48.873288000000024,2.3252779999999986&sspn=0.006055165327520617,0.01429221242565962&t=m&dg=opt&hnear=16+Boulevard+Montmartre,+75009+Paris,+%C3%8Ele-de-France,+France&z=16)
+
+## About  
+The purpose of the meet-up is to discuss the current proposals ([1],[2],[3]), 
+assess the obstacles to their implementations, and build momentum behind the problem space. 
+A little more detail:
+
+For the last couple of years, various folks have been working towards finding a way to bring 
+responsive images to the Web, with significant interest from Web developers. Although we now 
+have 3 proposals on the table (
+[srcset](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/),
+[`picture` element](http://picture.responsiveimages.org )
+and [client hints](https://github.com/igrigorik/http-client-hints)), we've had 
+trouble getting sufficient momentum behind browser implementations that would let the market 
+decide which solutions fulfills the use cases most effectively.
+
+In the mean time, developers have had to make due with custom pollyfills which often prevent 
+browsers from loading the image resources until after the DOM was (at least partially) loaded 
+and Javascript has run. This directly hinders the performance work browser engineers have done 
+over the years to optimize resource loading, and get requests on the wire as soon as possible, 
+according to their priority. That leaves developers with the dilemma "Do we stall the image load, 
+or download unnecessary image data which will slow down the overall load time and inflate 
+the user's bills?"
+
+## Proposed agenda:
+1. Introduction to each of the proposed solutions.
+2. Implementors feedback on the solutions
+3. Overlap among solutions
+4. Next steps
+
+## Proposed solutions
+ 1) [The srcset attribute - An HTML extension for adaptive images](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/)
+ 2) [The picture element](http://picture.responsiveimages.org)
+ 3) [Client hints](https://github.com/igrigorik/http-client-hints)
 
 # Getting to town 
 
