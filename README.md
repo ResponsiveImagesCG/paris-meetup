@@ -44,8 +44,11 @@ the user's bills?"
  * [The picture element](http://picture.responsiveimages.org)
  * [Client hints](https://github.com/igrigorik/http-client-hints)
 
-# Remote participation 
+## Remote participation 
 We are still looking into how we can make this happen. 
+
+## Organizers contact info
+[Yoav Weiss](mailto:yoav@yoav.ws)
 
 # Getting to town 
 
