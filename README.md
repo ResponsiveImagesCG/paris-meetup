@@ -40,9 +40,9 @@ the user's bills?"
 4. Next steps
 
 ## Proposed solutions
- 1) [The srcset attribute - An HTML extension for adaptive images](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/)
- 2) [The picture element](http://picture.responsiveimages.org)
- 3) [Client hints](https://github.com/igrigorik/http-client-hints)
+ * [The srcset attribute - An HTML extension for adaptive images](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/)
+ * [The picture element](http://picture.responsiveimages.org)
+ * [Client hints](https://github.com/igrigorik/http-client-hints)
 
 # Getting to town 
 
