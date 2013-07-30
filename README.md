@@ -44,6 +44,9 @@ the user's bills?"
  * [The picture element](http://picture.responsiveimages.org)
  * [Client hints](https://github.com/igrigorik/http-client-hints)
 
+# Remote participation 
+We are still looking into how we can make this happen. 
+
 # Getting to town 
 
 ### Bus from Charles de Gaulle
