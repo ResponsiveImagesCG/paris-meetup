@@ -12,7 +12,7 @@ Time: 10am-6pm
 [Google Maps](https://www.google.com/maps?q=16+Bis+Boulevard+Montmartre+75009+Paris,++France&ie=UTF8&sll=48.873288000000024,2.3252779999999986&sspn=0.006055165327520617,0.01429221242565962&t=m&dg=opt&hnear=16+Boulevard+Montmartre,+75009+Paris,+%C3%8Ele-de-France,+France&z=16)
 
 ## About  
-The purpose of the meet-up is to discuss the current proposals ([1],[2],[3]), 
+The purpose of the meet-up is to discuss the proposed solutions (see below), 
 assess the obstacles to their implementations, and build momentum behind the problem space. 
 A little more detail:
 
