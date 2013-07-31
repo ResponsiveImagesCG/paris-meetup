@@ -1,7 +1,9 @@
 # Responsive images meet up
 
 ## Meet up Location and time
+
 Date: 10th September, 2013
+
 Time: 10am-6pm
 
 ```
@@ -45,7 +47,18 @@ the user's bills?"
  * [Client hints](https://github.com/igrigorik/http-client-hints)
 
 ## Remote participation 
-We are still looking into how we can make this happen. 
+Note the meeting starts at 10AM Paris time. 
+[See the meeting planner](http://www.timeanddate.com/worldclock/meetingtime.html?iso=20130910&p1=195&p2=179&p3=224)
+for a time near you. 
+
+** Please [sign up to participate remotely](https://github.com/ResponsiveImagesCG/paris-meetup/issues/5) - we will email you a link on the day **
+
+To participate, you will need to install the [Vidyo client]( http://www.vidyo.com) 
+to access the video stream (similar to what you have to do with G+ hangouts). 
+The Vidyo client is available in the Apple App store, in the Google Play Store 
+and also for Mac OX, Windows and Linux platforms.
+
+* IRC - please join us IRC for backchat and minutes - irc://irc.w3.org:6665/#respimg
 
 ## Organizers contact info
 * [Yoav Weiss](mailto:yoav@yoav.ws)
