@@ -35,11 +35,17 @@ according to their priority. That leaves developers with the dilemma "Do we stal
 or download unnecessary image data which will slow down the overall load time and inflate 
 the user's bills?"
 
-## Proposed agenda:
-1. Introduction to each of the proposed solutions.
-2. Implementors feedback on the solutions
-3. Overlap among solutions
-4. Next steps
+## Proposed agenda
+1. Overview of the problem 
+2. Introduction to each of the proposed solutions.
+
+Lunch @ ~12:30 - provided by Mozilla. Resume at 1:30pm. 
+
+3. Implementors feedback on the solutions
+4. Overlap among solutions
+5. Next steps
+
+Dinner/Drinks! 
 
 ## Proposed solutions
  * [The srcset attribute - An HTML extension for adaptive images](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/)
