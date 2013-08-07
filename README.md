@@ -52,6 +52,23 @@ Dinner/Drinks!
  * [The picture element](http://picture.responsiveimages.org)
  * [Client hints](https://github.com/igrigorik/http-client-hints)
 
+## Who is attending?
+Representatives for the following companies have registered: 
+
+ * Adobe
+ * Google
+ * Mozilla
+ * W3C 
+ * Apple
+ * Opera
+ * Akamai
+ * Drupal
+ * BBC
+ * GPAC
+ * PMLA
+ * WOPE-framework
+ * Shoogle designs
+
 ## Remote participation 
 Note the meeting starts at 10AM Paris time. 
 [See the meeting planner](http://www.timeanddate.com/worldclock/meetingtime.html?iso=20130910&p1=195&p2=179&p3=224)
