@@ -36,16 +36,19 @@ or download unnecessary image data which will slow down the overall load time an
 the user's bills?"
 
 ## Proposed agenda
-1. Overview of the problem 
-2. Introduction to each of the proposed solutions.
-
-Lunch @ ~12:30 - provided by Mozilla. Resume at 1:30pm. 
-
+1. Overview of the problem: Developer's perspective - Mat Marquis.  
+2. Introduction to each of the proposed solutions:
+  * srcset - Ted O'Connor. 
+  * picture - Marcos Cáceres
+  * Client Hints - ??
+  * New image format - Yoav Weiss 
 3. Implementors feedback on the solutions
 4. Overlap among solutions
 5. Next steps
 
-Dinner/Drinks! 
+Lunch @ ~12:30 - provided by Mozilla. Resume at 1:30pm. 
+
+We will probably go out for dinner/drinks afterwards! 
 
 ## Proposed solutions
  * [The srcset attribute - An HTML extension for adaptive images](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/)
