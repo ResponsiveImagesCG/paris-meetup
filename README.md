@@ -56,18 +56,18 @@ Dinner/Drinks!
 Representatives for the following companies have registered: 
 
  * Adobe
+ * Akamai
+ * Apple
+ * BBC
+ * Ekino
  * Google
+ * GPAC
  * Mozilla
  * W3C 
- * Apple
  * Opera
- * Akamai
- * Drupal
- * BBC
- * GPAC
  * PMLA
- * WOPE-framework
  * Shoogle designs
+ * WOPE-framework
 
 ## Remote participation 
 Note the meeting starts at 10AM Paris time. 
