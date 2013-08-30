@@ -38,9 +38,9 @@ the user's bills?"
 ## Proposed agenda
 1. Overview of the problem: Developer's perspective - Mat Marquis.  
 2. Introduction to each of the proposed solutions:
-  * srcset - Ted O'Connor. 
-  * picture - Marcos Cáceres
-  * Client Hints - ??
+  * The srcset attribute - Ted O'Connor. 
+  * The picture element - Marcos Cáceres
+  * Client Hints - Boris Smus or Ilya Grigorik
   * New image format - Yoav Weiss 
 3. Implementors feedback on the solutions
 4. Overlap among solutions
