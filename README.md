@@ -36,9 +36,11 @@ or download unnecessary image data which will slow down the overall load time an
 the user's bills?"
 
 ## Proposed agenda
-1. Overview of the problem: Developer's perspective - Mat Marquis.  
+1. Developer's perspectives
+  * Mat Marquis - Overview of the problem. 
+  * Mark McDonnell - BBC's approach to responsive images
 2. Introduction to each of the proposed solutions:
-  * The srcset attribute - Ted O'Connor. 
+  * The srcset attribute - Ted O'Connor
   * The picture element - Marcos Cáceres
   * Client Hints - Boris Smus or Ilya Grigorik
   * New image format - Yoav Weiss 
