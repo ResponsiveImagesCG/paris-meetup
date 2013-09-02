@@ -113,7 +113,7 @@ If you come into Paris at the Gare du Nord you can take:
 The Grands Boulevard Metro is on the same road as the Office. You can buy a
 Metro ticket from automated machines at all metro stops. You just need a regular
 Billet. The price is 1.70Eur and is valid in all directions for one Journey.
-This journey I gave you takes about 10 - 15 mins start to finish. You can pick
+This journey takes about 10 - 15 mins start to finish. You can pick
 up a map of Paris on the Eurostar itself.
 
 ### Taxis G7 
