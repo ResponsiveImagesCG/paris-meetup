@@ -58,12 +58,13 @@ We will probably go out for dinner/drinks afterwards!
  * [Client hints](https://github.com/igrigorik/http-client-hints)
 
 ## Who is attending?
-Representatives for the following companies have registered: 
+Representatives for the following companies and organizations have registered: 
 
  * Adobe
  * Akamai
  * Apple
  * BBC
+ * Drupal
  * Ekino
  * Google
  * GPAC
