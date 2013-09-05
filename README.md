@@ -168,6 +168,8 @@ while they were asleep!
 ## Online
 The event is on
 [Lanyrd](http://lanyrd.com/2013/responsive-images-meet-up/) if you'd
-like to state your attendance. (Please note that it doesn't count as
-registration. If you'd like to register for either remote or in person
+like to state your attendance. 
+
+Please note that you cannot register through the Lanyrd page.
+If you'd like to register for either remote or in person
 attendance, please contact the organizers)
