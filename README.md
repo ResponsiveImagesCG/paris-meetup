@@ -164,3 +164,12 @@ This hotel, while very conveniently placed with regards to the office,
 should be avoided. It has generally poor reviews, and more importantly, at least 
 one Mozillian's room [was robbed](http://www.tripadvisor.co.uk/members-reviews/ryanw845) 
 while they were asleep! 
+
+## Online
+The event is on
+[Lanyrd](http://lanyrd.com/2013/responsive-images-meet-up/) if you'd
+like to state your attendance. 
+
+Please note that you cannot register through the Lanyrd page.
+If you'd like to register for either remote or in person
+attendance, please contact the organizers)
