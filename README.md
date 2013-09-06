@@ -37,14 +37,18 @@ the user's bills?"
 
 ## Proposed agenda
 1. Developer's perspectives
-  * Mat Marquis - Overview of the problem. 
-  * Mark McDonnell - BBC's approach to responsive images
+  * Overview of the problem - Mat Marquis (remote presentation) 
+  * BBC's approach to responsive images - Mark McDonnell
+  * Akamai's approach to responsive images - Guy Podjarny
 2. Introduction to each of the proposed solutions:
   * The srcset attribute - Ted O'Connor
   * The picture element - Marcos Cáceres
   * Client Hints - Boris Smus or Ilya Grigorik
-  * New image format - Yoav Weiss 
+  * A image format? - Yoav Weiss 
 3. Implementors feedback on the solutions
+  * DPR switching - relatively easy
+  * Viewport switching - harder
+  * Art direction - hardest :)
 4. Overlap among solutions
 5. Next steps
 
