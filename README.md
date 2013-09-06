@@ -54,7 +54,9 @@ the user's bills?"
 
 Lunch @ ~12:30 - provided by Mozilla. Resume at 1:30pm. 
 
-We will probably go out for dinner/drinks afterwards! 
+We will go out for dinner/drinks afterwards to
+[Le Zinc des Cavistes](http://www.tripadvisor.com/Restaurant_Review-g187147-d1058405-Reviews-Le_Zinc_des_Cavistes-Paris_Ile_de_France.html).
+If you want to joing us, [please let us know](http://doodle.com/2mep2k4u474cfhkw)!
 
 ## Proposed solutions
  * [The srcset attribute - An HTML extension for adaptive images](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/)
