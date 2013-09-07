@@ -83,6 +83,14 @@ Representatives for the following companies and organizations have registered:
  * PMLA
  * Shoogle designs
  * WOPE-framework
+ 
+The event is on
+[Lanyrd](http://lanyrd.com/2013/responsive-images-meet-up/) if you'd
+like to state your attendance. 
+
+Please note that you cannot register through the Lanyrd page.
+If you'd like to register for either remote or in person
+attendance, please contact the organizers listed below)
 
 ## Remote participation 
 Note the meeting starts at 10AM Paris time. 
@@ -166,19 +174,3 @@ nice hotel, small rooms but not bad.
 Nice enough hotel; really close to the office. Staff are nice and helpful
 and the rooms are nice, but the internet can be bad.
 
-### Hotels to avoid
-
-[Hôtel Mondial](http://www.tripadvisor.co.uk/Hotel_Review-g187147-d319561-Reviews-Mondial_Hotel-Paris_Ile_de_France.html)
-This hotel, while very conveniently placed with regards to the office, 
-should be avoided. It has generally poor reviews, and more importantly, at least 
-one Mozillian's room [was robbed](http://www.tripadvisor.co.uk/members-reviews/ryanw845) 
-while they were asleep! 
-
-## Online
-The event is on
-[Lanyrd](http://lanyrd.com/2013/responsive-images-meet-up/) if you'd
-like to state your attendance. 
-
-Please note that you cannot register through the Lanyrd page.
-If you'd like to register for either remote or in person
-attendance, please contact the organizers)
