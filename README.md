@@ -46,7 +46,7 @@ the user's bills?"
   * The srcset attribute - Ted O'Connor
   * The picture element - Marcos Cáceres
   * Client Hints - Boris Smus or Ilya Grigorik
-  * A image format? - Yoav Weiss 
+  * New image format? - Yoav Weiss 
 3. Implementors feedback on the solutions
   * DPR switching - relatively easy
   * Viewport switching - harder
