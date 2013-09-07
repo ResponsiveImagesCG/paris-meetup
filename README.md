@@ -2,9 +2,11 @@
 
 ## Meet up Location and time
 
-Date: 10th September, 2013
+Date: Tuesday, 10th September, 2013. 
 
 Time: 10am-6pm
+
+Location:
 
 ```
 16 Bis Boulevard Montmartre
