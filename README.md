@@ -1,15 +1,13 @@
-# Responsive images meet up
+# Responsive images meet-up
 
-## Meet up Location and time
-
+##location and time
 Date: Tuesday, 10th September, 2013. 
-
 Time: 10am-6pm
 
 Location:
 
 ```
-16 Bis Boulevard Montmartre
+16 Bis Boulevard, Montmartre
 75009 Paris, France
 ```
 
@@ -27,13 +25,14 @@ have 3 proposals on the table (
 [`picture` element](http://picture.responsiveimages.org )
 and [client hints](https://github.com/igrigorik/http-client-hints)), we've had 
 trouble getting sufficient momentum behind browser implementations that would let the market 
-decide which solutions fulfills the use cases most effectively.
+decide which solutions fulfills the [use cases](http://usecases.responsiveimages.org) 
+most effectively.
 
-In the mean time, developers have had to make due with custom pollyfills which often prevent 
+In the mean time, developers are makig due with custom pollyfills that often prevent 
 browsers from loading the image resources until after the DOM was (at least partially) loaded 
 and Javascript has run. This directly hinders the performance work browser engineers have done 
-over the years to optimize resource loading, and get requests on the wire as soon as possible, 
-according to their priority. That leaves developers with the dilemma "Do we stall the image load, 
+over the years to optimize resource loading, and get requests on the wire as soon as possible ( 
+according to their priority). That leaves developers with the dilemma: "Do we stall the image load?, 
 or download unnecessary image data which will slow down the overall load time and inflate 
 the user's bills?"
 
@@ -48,9 +47,9 @@ the user's bills?"
   * Client Hints - Boris Smus or Ilya Grigorik
   * New image format? - Yoav Weiss 
 3. Implementors feedback on the solutions
-  * DPR switching - relatively easy
-  * Viewport switching - harder
-  * Art direction - hardest :)
+  * [DPR switching](http://usecases.responsiveimages.org/#resolution-switching) - relatively easy.
+  * [Viewport switching](http://usecases.responsiveimages.org/#resolution-switching) - harder.
+  * [Art direction](http://usecases.responsiveimages.org/#art-direction) - hardest.
 4. Overlap among solutions
   * [lazylaod and postpone](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html). 
 5. Next steps
