@@ -50,6 +50,7 @@ the user's bills?"
   * Viewport switching - harder
   * Art direction - hardest :)
 4. Overlap among solutions
+  * [lazylaod and postpone](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html). 
 5. Next steps
 
 Lunch @ ~12:30 - provided by Mozilla. Resume at 1:30pm. 
