@@ -85,7 +85,7 @@ Representatives for the following companies and organizations have registered:
  
 The event is on
 [Lanyrd](http://lanyrd.com/2013/responsive-images-meet-up/) if you'd
-like to state your attendance. 
+like to make your attendance more public. 
 
 Please note that you cannot register through the Lanyrd page.
 If you'd like to register for either remote or in person
