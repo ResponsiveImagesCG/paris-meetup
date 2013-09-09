@@ -7,8 +7,10 @@ Time: 10am-6pm
 Location:
 
 ```
-16 Bis Boulevard, Montmartre
+16Bis Boulevard Montmartre
 75009 Paris, France
+
+(note: you want the 16 *Biz* entrance - not the 16... look for Mozilla on digital panel!)
 ```
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?sll=48.873288000000045,2.32527799999999&amp;sspn=0.010838193662898222,0.0219711170879061&amp;t=m&amp;q=16+Bis+Boulevard+Montmartre+75009+Paris,++France&amp;dg=opt&amp;ie=UTF8&amp;hq=&amp;hnear=16+Boulevard+Montmartre,+75009+Paris,+%C3%8Ele-de-France,+France&amp;z=14&amp;iwloc=A&amp;ll=48.871838,2.341121&amp;output=embed"></iframe><br /><small><a href="https://www.google.com/maps?sll=48.873288000000045,2.32527799999999&amp;sspn=0.010838193662898222,0.0219711170879061&amp;t=m&amp;q=16+Bis+Boulevard+Montmartre+75009+Paris,++France&amp;dg=opt&amp;ie=UTF8&amp;hq=&amp;hnear=16+Boulevard+Montmartre,+75009+Paris,+%C3%8Ele-de-France,+France&amp;z=14&amp;iwloc=A&amp;ll=48.871838,2.341121&amp;source=embed" style="color:#0000FF;text-align:left">View Map</a></small>
