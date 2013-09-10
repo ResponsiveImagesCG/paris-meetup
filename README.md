@@ -1,6 +1,6 @@
 # Responsive images meetup
 
-##location and time
+##Location and time
 Date: Tuesday, 10th September, 2013. 
 Time: 10am-6pm
 
@@ -46,7 +46,7 @@ the user's bills?"
   * Akamai's approach to responsive images - Guy Podjarny
 2. Introduction to each of the proposed solutions:
   * The srcset attribute - Ted O'Connor
-  * The picture element - Marcos Cáceres
+  * [The picture element](https://dl.dropboxusercontent.com/u/38490906/respimg/index.html) - Marcos Cáceres
   * Client Hints - Boris Smus or Ilya Grigorik
   * New image format - Yoav Weiss 
   * SVG switch renaissance - Robin Berjon
@@ -64,6 +64,19 @@ Lunch @ ~12:30 - provided by Mozilla. Resume at 1:30pm.
 We will go out for dinner/drinks afterwards to
 [Le Zinc des Cavistes](http://www.tripadvisor.com/Restaurant_Review-g187147-d1058405-Reviews-Le_Zinc_des_Cavistes-Paris_Ile_de_France.html).
 If you want to joing us, [please let us know](http://doodle.com/2mep2k4u474cfhkw)!
+
+## IRC Server details
+
+Using your browser:
+http://irc.w3.org (channel: #respimg)
+
+Using a client that supports URLs:
+irc://irc.w3.org:6665/#respimg
+
+Otherwise:
+Server: irc.w3.org
+Port: 6665
+Channel: respimg
 
 ## Proposed solutions
  * [The srcset attribute - An HTML extension for adaptive images](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/)
