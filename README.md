@@ -46,7 +46,7 @@ the user's bills?"
   * Akamai's approach to responsive images - Guy Podjarny
 2. Introduction to each of the proposed solutions:
   * The srcset attribute - Ted O'Connor
-  * The picture element - Marcos Cáceres
+  * [The picture element](https://dl.dropboxusercontent.com/u/38490906/respimg/index.html) - Marcos Cáceres
   * Client Hints - Boris Smus or Ilya Grigorik
   * New image format - Yoav Weiss 
 3. Implementors feedback on the solutions for each of the use-cases
