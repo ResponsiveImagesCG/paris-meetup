@@ -47,13 +47,14 @@ the user's bills?"
   * The srcset attribute - Ted O'Connor
   * The picture element - Marcos Cáceres
   * Client Hints - Boris Smus or Ilya Grigorik
-  * New image format? - Yoav Weiss 
-3. Implementors feedback on the solutions
-  * [DPR switching](http://usecases.responsiveimages.org/#resolution-switching) - relatively easy.
-  * [Viewport switching](http://usecases.responsiveimages.org/#resolution-switching) - harder.
-  * [Art direction](http://usecases.responsiveimages.org/#art-direction) - hardest.
+  * New image format - Yoav Weiss 
+3. Implementors feedback on the solutions for each of the use-cases
+  * [DPR switching](http://usecases.responsiveimages.org/#resolution-switching)
+  * [Viewport switching](http://usecases.responsiveimages.org/#resolution-switching)
+  * [Art direction](http://usecases.responsiveimages.org/#art-direction)
 4. Overlap among solutions
-  * [lazylaod and postpone](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html). 
+5. Related specs
+  * [lazyload and postpone](https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/ResourcePriorities/Overview.html). 
 5. Next steps
 
 Lunch @ ~12:30 - provided by Mozilla. Resume at 1:30pm. 
