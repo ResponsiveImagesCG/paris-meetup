@@ -39,6 +39,7 @@ or download unnecessary image data which will slow down the overall load time an
 the user's bills?"
 
 ## Proposed agenda
+0. Welcome and tweak agenda
 1. Developer's perspectives
   * Overview of the problem - Mat Marquis (remote presentation) 
   * BBC's approach to responsive images - Mark McDonnell
