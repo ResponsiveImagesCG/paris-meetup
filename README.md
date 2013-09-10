@@ -49,6 +49,7 @@ the user's bills?"
   * The picture element - Marcos Cáceres
   * Client Hints - Boris Smus or Ilya Grigorik
   * New image format - Yoav Weiss 
+  * SVG switch renaissance - Robin Berjon
 3. Implementors feedback on the solutions for each of the use-cases
   * [DPR switching](http://usecases.responsiveimages.org/#resolution-switching)
   * [Viewport switching](http://usecases.responsiveimages.org/#resolution-switching)
