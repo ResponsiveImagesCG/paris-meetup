@@ -47,9 +47,9 @@ the user's bills?"
 2. Introduction to each of the proposed solutions:
   * The srcset attribute - Ted O'Connor
   * [The picture element](https://dl.dropboxusercontent.com/u/38490906/respimg/index.html) - Marcos Cáceres
-  * Client Hints - Boris Smus or Ilya Grigorik
-  * New image format - Yoav Weiss 
-  * SVG switch renaissance - Robin Berjon
+  * Client Hints - Ilya Grigorik
+  * [New image format](http://yoavweiss.github.io/respimg-paris-presentation/) - Yoav Weiss 
+  * [SVG switch renaissance](berjon.com/presentations/20130910-ricg-switch/) - Robin Berjon
 3. Implementors feedback on the solutions for each of the use-cases
   * [DPR switching](http://usecases.responsiveimages.org/#resolution-switching)
   * [Viewport switching](http://usecases.responsiveimages.org/#resolution-switching)
