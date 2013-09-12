@@ -42,7 +42,7 @@ the user's bills?"
 0. Welcome and tweak agenda
 1. Developer's perspectives
   * Overview of the problem - Mat Marquis (remote presentation) 
-  * BBC's approach to responsive images - Mark McDonnell
+  * [BBC's approach to responsive images](https://speakerdeck.com/integralist/bbc-news-responsive-images) - Mark McDonnell
   * Akamai's approach to responsive images - Guy Podjarny
 2. Introduction to each of the proposed solutions:
   * The srcset attribute - Ted O'Connor
