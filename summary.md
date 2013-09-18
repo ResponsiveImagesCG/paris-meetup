@@ -179,7 +179,7 @@ John Mellor's demo:
 - That is only possible with SPDY/HTTP2, otherwise the delay impact would be significant.
 
 ### SVG switch renaissance
-**Presented by:** Robin Berjon, W3C. 
+**Presented by:** Robin Berjon, W3C ([slides](http://berjon.com/presentations/20130910-ricg-switch/)). 
 
 Robin Berjon, W3C, demonstrated how SVG `switch` element behaves very much like the proposed `picture` element. As such, it might be able to make some minor extensions to `switch` in order to get it to support media queries. Limitations are that it only works in an SVG context. Other noticeable criticism of this approach are the reliance on `xlink:href`, and not being able to discriminate by supported media type. Having said that, there is good compatibility except in IE8 and Android 2.2. This solution would also be used to "responsify" other elements, not just images.
 
