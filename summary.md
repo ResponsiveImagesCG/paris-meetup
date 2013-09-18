@@ -17,7 +17,7 @@ Many thanks to the authors for allowing their text to be reused here.
 
 ## Meeting outcomes
 
-* Browser vendors agree that `srcset + DPR-switching` is the right initial step forward (i.e., the 2x, 3x, etc. syntax). 
+* Browser vendors agree that `srcset` + DPR-switching is the right initial step forward (i.e., the `2x`, `3x`, etc. syntax). 
 * Agreement to then consider `srcset` + viewport size after some implementation experience (possibly drop height syntax from `srcset` spec). If not implemented, Width/Height syntax to possibly be marked at risk in `srcset` spec.  
 * Browser makers acknowledge the art-direction use case, but still think `<picture>` is not the right solution.
 * Adding new HTTP headers to the platform, as Client-Hints proposes to do, has had negative impact in the past - so Client Hints needs to be carefully considered.
@@ -37,7 +37,7 @@ most effectively.
 In the mean time, developers are making do with custom pollyfills that often prevent 
 browsers from loading the image resources until after the DOM has loaded 
 and Javascript has run. This directly hinders the performance work browser engineers have done 
-over the years to optimize resource loading. It also negatively inpacts users, as they are not able to benefit from these performance optimizations. 
+over the years to optimize resource loading. It also negatively impacts users, as they are not able to benefit from these performance optimizations. 
 
 ## Companies that attended 
 Present in Paris were the following companies/organizations:
@@ -120,27 +120,27 @@ Client Hints has an "[intent to implement](https://groups.google.com/a/chromium.
 ### The `srcset` attribute
 **Presented by:** Ted O'Connor, Apple
 
-Ted, who is the Editor of the `srcset` spec at the W3C*, explained that Webkit is supporting a limited version of `srcset` (DPR selection via the Nx syntax). Webkit chose to implement DPR-selection first, as an incremental improvement to the Web platform and addresses the most pressing use cases. Marcos Caceres, Mozilla, indicated that there is interest to support the DPR-based selection via `srcset` in Gecko. 
+Ted, who is the Editor of the `srcset` spec at the W3C, explained that Webkit is supporting a limited version of `srcset` (DPR selection via the Nx syntax). Webkit chose to implement DPR-selection first, as an incremental improvement to the Web platform and addresses the most pressing use cases. Marcos Cáceres, Mozilla, indicated that there is interest to support the DPR-based selection via `srcset` in Gecko. 
 
-Ted explained that art direction can be addressed on a platform level, not just responsive images. Ted also explained that most art direction use case can be addressed using css (e.g., cropping the image). Shane Hudson, PMLA, commented that user generated images could not use CSS. Reply was basically that the images would not be widely different. A question was asked about the intrinsic size of images when no image dimensions are given, but the DPR is greater than 1. The answer is that webkit will scale the image appropriately.
+Ted explained that art direction can be addressed on a platform level, not just responsive images. Ted also explained that most art direction use case can be addressed using CSS (e.g., cropping the image). Shane Hudson, PMLA, commented that user generated images could not use CSS. Reply was basically that the images would not be widely different. A question was asked about the intrinsic size of images when no image dimensions are given, but the DPR is greater than 1. The answer is that WebKit will scale the image appropriately.
 
 ### The picture element 
 **Presented by:** Marcos Caceres, Mozilla. 
 
-Marcos explained that the reason that `picture` exists is because `srcset` cannot address the art direction use case. Marcos gave a history of `picture` and explained that `picture` initially tried to address all the use cases (which is why it's a bit of a “kitchen sink”), and how it was now being stripped down to the bare essentials. Ideally, most developers would use `srcset` and only use `picture` just for art direction and for discriminating on supported formats (e.g., WebP).  This case is important as it allows browsers to do content negotiation on the client-side basec on what image formats they support. The picture element is also being designed to be pollyfillable - so that it can be used in legacy browsers. 
+Marcos explained that the reason that `picture` exists is because `srcset` cannot address the art direction use case. Marcos gave a history of `picture` and explained that `picture` initially tried to address all the use cases (which is why it's a bit of a “kitchen sink”), and how it was now being stripped down to the bare essentials. Ideally, most developers would use `srcset` and only use `picture` just for art direction and for discriminating on supported formats (e.g., WebP).  This case is important as it allows browsers to do content negotiation on the client-side based on what image formats they support. The picture element is also being designed to be pollyfillable - so that it can be used in legacy browsers. 
 
 During the presentation, a question was asked about the priority of the use cases being addressed. The answer was that the `picture` element was being simplified to only address art direction right now. Support from Canvas and an API might be added later. 
                 
-Another question raised was, what do large content providers think of the syntax of picture? Mark McDonnell, BBC, responded that anything marginally more complicated than `srcset` would result in convoluted markup that is hard to maintain (i.e., `picture`, as currently specified, is not very maintanable because of the reliance on inline CSS media queries). 
+Another question raised was, what do large content providers think of the syntax of picture? Mark McDonnell, BBC, responded that anything marginally more complicated than `srcset` would result in convoluted markup that is hard to maintain (i.e., `picture`, as currently specified, is not very maintainable because of the reliance on in-line CSS media queries). 
    
-Simon Pieters, from Opera, criticised the `picture` element for being too hard to implement and maintain. Simon, who quality assured HTML's video element, argued that the current markup pattern will lead to a lot issue - as it did with the `video` element. Issues were also raised about how it would interact with a browser's prelaod scanner. Yoav Weiss, who has investigated the area, argued that that should not be a big problem. But there are edge cases. Others also commented that the picture element makes interactivity, such as slideshows, slightly awkward. Involving loops etc.
+Simon Pieters, from Opera, criticized the `picture` element for being too hard to implement and maintain. Simon, who quality assured HTML's video element, argued that the current markup pattern will lead to a lot issue - as it did with the `video` element. Issues were also raised about how it would interact with a browser's prelaod-scanner. Yoav Weiss, who has investigated the area, argued that that should not be a big problem. But there are edge cases. Others also commented that the picture element makes interactivity, such as slideshows, slightly awkward. Involving loops etc.
 
 ### Client hints 
 **Presented by:** Ilya Grigorik, Google.
 
 Client hints defines a HTTP-based solution that would enable browsers to "hint" to servers information about the user's device - this could enable a simple way to do content negotiation based on, for instance, the DPR of a device. This solution serves as an alternative to `srcset` and solves the "ugly markup" problem by not requiring any changes to HTML's `img` tag.
 
-As elegant as the solution sounds, there are a number of issues with the solution. For one, it would mean sending additional data with each HTTP request. It's also susceptible to breakage because of intermidiaries such as proxies dropping or changing the content of headers, etc. There was push back against adding new HTTP headers - particularly from Mozilla. One explicit statement was that “while we (browser implementers) aren't saying we'll never add new headers, we're only one step away from that”. They pointed out that while some header-based content negotiation techniques worked in the past (e.g. Accept-Encoding), many failed (e.g. Accept-Language, Accept-Charset), leaving a sense that this is a wrong approach. That said, an opt-in mechanism for Client Hints moght mitigate much of the concern.
+As elegant as the solution sounds, there are a number of issues with the solution. For one, it would mean sending additional data with each HTTP request. It's also susceptible to breakage because of intermediaries such as proxies dropping or changing the content of headers, etc. There was push back against adding new HTTP headers - particularly from Mozilla. One explicit statement was that “while we (browser implementers) aren't saying we'll never add new headers, we're only one step away from that”. They pointed out that while some header-based content negotiation techniques worked in the past (e.g. Accept-Encoding), many failed (e.g. Accept-Language, Accept-Charset), leaving a sense that this is a wrong approach. That said, an opt-in mechanism for Client Hints moght mitigate much of the concern.
 
 Ilya also wrote a [blog post about the meeting](
 https://docs.google.com/document/d/1gWy8ZpRcZjt6_00ISxTo3j2umrLEUQI_kutTCFEqOB4/edit?pli=1). 
