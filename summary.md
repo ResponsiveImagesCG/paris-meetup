@@ -127,7 +127,7 @@ Ted, who is the Editor of the `srcset` spec at the W3C, explained that Webkit is
 
 Ted explained that art direction can be addressed on a platform level, not just responsive images. Ted also explained that most art direction use case can be addressed using CSS (e.g., cropping the image). Shane Hudson, PMLA, commented that user generated images could not use CSS. Reply was basically that the images would not be widely different. A question was asked about the intrinsic size of images when no image dimensions are given, but the DPR is greater than 1. The answer is that WebKit will scale the image appropriately.
 
-### The picture element 
+### The `picture` element 
 **Presented by:** Marcos Caceres, Mozilla. (no slides - "live coded" presentation). 
 
 Marcos explained that the reason that `picture` exists is because `srcset` cannot address the art direction use case. Marcos gave a history of `picture` and explained that `picture` initially tried to address all the use cases (which is why it's a bit of a “kitchen sink”), and how it was now being stripped down to the bare essentials. Ideally, most developers would use `srcset` and only use `picture` just for art direction and for discriminating on supported formats (e.g., WebP).  This case is important as it allows browsers to do content negotiation on the client-side based on what image formats they support. The picture element is also being designed to be pollyfillable - so that it can be used in legacy browsers. 
