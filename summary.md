@@ -1,6 +1,5 @@
 # Paris Responsive Images Meetup
 
-On Tuesday, the 10th September, 2013 various W3C members and folks from the developer community got  together at Mozilla's Paris offices to try to agree on a way forward for responsive images. 
 
 As no official minutes were taken during the meetup, this meeting summary is based on the following unofficial notes and blog posts from attendees: 
 
