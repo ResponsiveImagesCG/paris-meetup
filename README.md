@@ -94,6 +94,7 @@ Representatives for the following companies and organizations have registered:
  * Ekino
  * Google
  * GPAC
+ * Microsoft
  * Mozilla
  * W3C 
  * Opera
