@@ -149,7 +149,7 @@ Ilya also wrote a [blog post about the meeting](
 https://docs.google.com/document/d/1gWy8ZpRcZjt6_00ISxTo3j2umrLEUQI_kutTCFEqOB4/edit?pli=1). 
 
 ### New image format
-**Presented by:** Yoav Weiss, Responsive Images Community Group.
+**Presented by:** Yoav Weiss, Responsive Images Community Group ([slides](http://yoavweiss.github.io/respimg-paris-presentation/#/)).
 
 Approaches the responsive images problem from a different angle - a file format solution.
 
