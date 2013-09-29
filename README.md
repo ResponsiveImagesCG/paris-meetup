@@ -49,7 +49,7 @@ the user's bills?"
   * [The picture element](https://dl.dropboxusercontent.com/u/38490906/respimg/index.html) - Marcos Cáceres
   * [Client Hints](https://docs.google.com/presentation/d/1vyoo9KNuaVCFcVJzH-3fisjGmkTSj-8SH1VTCJUqvr4/edit?usp=sharing) - Ilya Grigorik
   * [New image format](http://yoavweiss.github.io/respimg-paris-presentation/) - Yoav Weiss 
-  * [SVG switch renaissance](berjon.com/presentations/20130910-ricg-switch/) - Robin Berjon
+  * [SVG switch renaissance](http://berjon.com/presentations/20130910-ricg-switch/) - Robin Berjon
 3. Implementors feedback on the solutions for each of the use-cases
   * [DPR switching](http://usecases.responsiveimages.org/#resolution-switching)
   * [Viewport switching](http://usecases.responsiveimages.org/#resolution-switching)
